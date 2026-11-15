@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-RiderLC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/Module.RiderLC.cpp.obj"
+"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/RiderLC.cpp.obj"
+/OUT:"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLC/UnrealEditor-RiderLC.lib"

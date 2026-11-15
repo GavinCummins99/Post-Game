@@ -1,0 +1,11 @@
+"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/lifetime/LifetimeDefinition.cpp"
+@"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.Shared.rsp"
+/FI"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Definitions.h"
+/Fo"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeDefinition.cpp.obj"
+/experimental:log "C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeDefinition.cpp.sarif"
+/sourceDependencies "C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/LifetimeDefinition.cpp.dep.json"
+/nologo
+/TP
+/GR
+/std:c++20
+/wd5054

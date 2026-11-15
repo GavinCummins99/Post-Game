@@ -1,0 +1,11 @@
+"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ViewportCameraResponse.Pregenerated.cpp"
+@"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/RiderLink.Shared.rsp"
+/FI"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/Definitions.h"
+/Fo"C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ViewportCameraResponse.Pregenerated.cpp.obj"
+/experimental:log "C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ViewportCameraResponse.Pregenerated.cpp.sarif"
+/sourceDependencies "C:/Users/gavin/Documents/Unreal Projects/ParcelGame/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderLink/ViewportCameraResponse.Pregenerated.cpp.dep.json"
+/nologo
+/TP
+/GR
+/std:c++20
+/wd5054
