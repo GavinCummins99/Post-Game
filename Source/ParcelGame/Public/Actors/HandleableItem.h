@@ -14,7 +14,7 @@ class AHandleableItem : public AActor, public IInteractInterface
 public:
 	AHandleableItem();
 
-	UPROPERTY(VisibleAnywhere) UStaticMeshComponent* Mesh;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite) UStaticMeshComponent* Mesh;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite) FIntPoint Footprint = FIntPoint(1, 1);
 
